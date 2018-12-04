@@ -1,0 +1,10 @@
+node_modules
+.vscode
+.tmp
+.DS_Store
+*.log
+dist
+backup
+package-lock.json
+yarn.lock
+CNAME
